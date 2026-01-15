@@ -38,17 +38,17 @@ portrait_caption: >-
 
 education:
 - name: Texas Tech University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/photos/TTU.png
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
   date: Sep. 2025 - present
 - name: Hangzhou dianzi University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/photos/HDU.jpg
   position: M.S. in Instrumentation Science and Technology
   date: Sep. 2022 - Jul. 2025
 - name: Southwest Petroleum University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/photos/SWPU.jpg
   position: B.S. in Measurement and Control Technology and Instruments
   date: Sep. 2018 - Jul. 2022  
 
