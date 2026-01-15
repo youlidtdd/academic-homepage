@@ -1,17 +1,17 @@
-primary_name: "Your Name"
+primary_name: "You Li"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "You Li"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Ph.D. Student
+- name: Texas Tech University
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "You.Li@ttu.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+gscholar: fX3R7b0AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: youlidtdd
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -25,9 +25,11 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Welcome! I am a 1-year Ph.D. candidate in the Edward E. Whitacre Jr. College of Engineering at Texas Tech University. 
+    Currently, I work in the SLEEP (Statistically Enhanced Privacy) Group, where My research focuses on the cutting-edge intersection of 
+    privacy-preserving technologies and generative AI. I am dedicated to enhancing generative models through innovative differential 
+    privacy mechanisms, aiming to resolve the critical trade-off between privacy leakage risks and data utility in the context of 
+    high-dimensional, complex data.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +37,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Texas Tech University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+  date: Sep. 2025 - present
+- name: Hangzhou dianzi University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: M.S. in Instrumentation Science and Technology
+  date: Sep. 2022 - Jul. 2025
+- name: Southwest Petroleum University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Measurement and Control Technology and Instruments
+  date: Sep. 2018 - Jul. 2022  
 
 # experience:
 # - name: Peking University
@@ -52,10 +58,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
